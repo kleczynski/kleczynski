@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsJMMFT0EN3g/profile-displaybackgroundimage-shrink_350_1400/0/1695808204333?e=1709769600&v=beta&t=1t3brtJL7vYl1xPk0zR6K-0ln3ysEKDX0IQgSrrZaZE)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGsJMMFT0EN3g/profile-displaybackgroundimage-shrink_350_1400/0/1695808204333?e=1709769600&v=beta&t=1t3brtJL7vYl1xPk0zR6K-0ln3ysEKDX0IQgSrrZaZE)
 <h1 align="center">Hi 👋, I'm Kacper Leczynski</h1>
 <h3 align="center">I am fascinated by the growing IT industry in backend technologies, AI, Blockchain. I am a developer with more than three years of experience. I am interested in quantum physics, quantum computing, astronomy and blockchain</h3>
 <img align="right" alt="Quantum" width="400" src="https://cdn.dribbble.com/users/1141498/screenshots/4718704/media/64d3a6cbd932720fd773027959b25ef2.gif">
